@@ -1,0 +1,21 @@
+.screen {
+	padding-left: 1em;
+	font-size: 70%;
+}
+
+.news-title {
+	color: white;
+	padding-top: 1em;
+	padding-bottom: .25em;
+	font-weight: bold;
+}
+
+.news-stats {
+	font-size: 80%;
+	font-style: italic;
+	padding-left: 1em;
+}
+
+.news-abstract {
+	padding-left: 1em;
+}
